@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Abdullah 👋
 
-<!--
-**zeabdullah/zeabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Frontend-focused Web Engineer, and I like to make beautiful web experiences for **everyone**.
 
-Here are some ideas to get you started:
+- 🔭 I work mostly with **TypeScript**, **React**, and **Node.js**
+- 🌱 I’m currently learning **Laravel** & **MySQL**
+- 💬 Ask me about **React, Next.js, Astro, Tailwind**
+- 📫 Reach out to me: [me@zabd.dev](mailto:me@zabd.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ **Fun facts**:
+
+- I have website ([zabd.dev](https://www.zabd.dev)). It's cool. 🙂
+- I like to read books about **software** and **self-improvement**.
+- In a love-hate relationship with JavaScript and TypeScript
