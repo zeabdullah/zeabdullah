@@ -1,4 +1,4 @@
-![Abdullah Zeidan - Web Engineer](https://github.com/user-attachments/assets/0137ae6f-1f55-45dc-9335-fba82d6467ac)
+![Abdullah Zeidan - Web Engineer](https://github.com/user-attachments/assets/9bb106de-bb23-46f1-9925-800c340fa365)
 
 ## Salam, I'm Abdullah 👋
 
