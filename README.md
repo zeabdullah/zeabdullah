@@ -21,11 +21,11 @@ A **Frontend-focused Web Engineer**, and I like to make beautiful web experience
 ### 🧮 My GitHub stats:
 <a href="https://github.com/zeabdullah">
   <picture>
-      <source height=150 align="center" 
+      <source height=180 align="center" 
       srcset="https://stats.zabd.dev/api?username=zeabdullah&show_icons=true&rank_icon=github&theme=gotham"
       media="(prefers-color-scheme: dark)"
      />
-    <source height=150 align="center" 
+    <source height=180 align="center" 
       srcset="https://stats.zabd.dev/api?username=zeabdullah&show_icons=true&rank_icon=github&theme=vue" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
@@ -35,14 +35,14 @@ A **Frontend-focused Web Engineer**, and I like to make beautiful web experience
 
 <a href="https://github.com/zeabdullah">
    <picture>
-      <source height=150 align="center" 
+      <source height=180 align="center" 
       srcset="https://stats.zabd.dev/api/top-langs?username=zeabdullah&layout=compact&theme=gotham"
       media="(prefers-color-scheme: dark)"
      />
-    <source height=150 align="center" 
+    <source height=180 align="center" 
       srcset="https://stats.zabd.dev/api/top-langs?username=zeabdullah&layout=compact&theme=vue" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-     <img height=150 align="center" src="https://stats.zabd.dev/api/top-langs?username=zeabdullah&layout=compact&theme=vue" />
+     <img height=180 align="center" src="https://stats.zabd.dev/api/top-langs?username=zeabdullah&layout=compact&theme=vue" />
   </picture>
 </a>
